@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">@color/navy_blue</color>
+    <color name="color_primary_dark">@color/navy_blue_dark</color>
+    <color name="color_accent">@color/sky_blue</color>
+
+    <!-- app color -->
+    <color name="navy_blue">#2B2D3A</color>
+    <color name="navy_blue_dark">#22232F</color>
+    <color name="sky_blue">#77AAD9</color>
+    <color name="grey_dark">#626576</color>
+    <color name="light_grey">#EDEDED</color>
+    <color name="skin">#E5D8C6</color>
+
+</resources>
